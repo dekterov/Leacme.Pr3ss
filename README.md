@@ -5,6 +5,7 @@
 This application features the ability to compress a directory of files into a .zip archive as well as extract the archives.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703768-b64a8180-2d93-11ea-8bbb-2af29e9a39e9.png)
 
 ## Application Compiling
 
